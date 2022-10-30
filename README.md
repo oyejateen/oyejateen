@@ -4,9 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>İ am Jatin Sharma a.k.a Teddy a.k.a Sunshine lol. İ am just a tech and space enthusiast.
-<br><br> Vibing to : 🎶  </strong></p>
+<br><br> Vibing to :  </strong></p>
 
-[![Spotify](https://github.com/itstommi/Spotify-Readme/blob/main/spotify.svg) open up!](https://open.spotify.com/user/gw8cayvfx9mo5ho392xtpeagn?) <br>
+[![Spotify](https://github.com/itstommi/Spotify-Readme/blob/main/spotify.svg) Tap!](https://open.spotify.com/user/gw8cayvfx9mo5ho392xtpeagn?) <br>
 
 </div>
 
