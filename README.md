@@ -1,11 +1,10 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/TEDDY6969/TEDDY6969/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>2nd year BCA student. During day, Assisting
-<br>my father at his shop & Coder at night.
-<br><br> Vibing to : 🎧  </strong></p>
+<p><strong>İ am Jatin Sharma a.k.a Teddy a.k.a Sunshine lol. İ am just a tech and space enthusiast.
+<br><br> Vibing to : 🎶  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
@@ -68,16 +67,16 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/TEDDY6969/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/TEDDY6969/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/TEDDY6969/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/TEDDY6969/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
 
