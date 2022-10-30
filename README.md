@@ -45,12 +45,12 @@
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
-// tools_I_use organized
+// Tools i use for things 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "ProgramingLanguages" : { "Python", "Javascript", "C#" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
+    "Database" : { "Firebase", "Sqlite", Mongo },
     "Editors" : { "Vscode", "Sublime", "Neovim" },
     "Platforms" : { "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
