@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/TEDDY6969/TEDDY6969/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/TEDDY6969/TEDDY6969/blob/main/ezgif.com-gif-maker.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>İ am Jatin Sharma a.k.a Teddy a.k.a Sunshine lol. İ am just a tech and space enthusiast.
