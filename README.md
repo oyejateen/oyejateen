@@ -6,7 +6,7 @@
 <p><strong>İ am Jatin Sharma a.k.a Teddy a.k.a Sunshine lol. İ am just a tech and space enthusiast.
 <br><br> Vibing to : 🎶  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://github.com/itstommi/Spotify-Readme/blob/main/spotify.svg) open up!](https://open.spotify.com/user/gw8cayvfx9mo5ho392xtpeagn?) <br>
 
 </div>
 
