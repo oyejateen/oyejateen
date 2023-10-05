@@ -1,44 +1,11 @@
-<div align="center" width="50">
+# 👋 Hi, I'm Jatin
+I'm a passionate self-taught developer from India. 
 
-<img src="https://github.com/TEDDY6969/TEDDY6969/blob/main/ezgif.com-gif-maker.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
-  
-<p><strong>I am Jatin. I am just a tech and astro enthusiast.
-<br><br> Vibing to :  </strong></p>
+✨️ Learn more about me on my [portfolio](https://oyejateen.github.io). <br>
+💻 Find more of my projects [here](https://github.com/oyejateen?tab=repositories). <br>
+💌 You can reach me via email at [jatin@linkxtr.app](mailto:jatin@linkxtr.app).
 
-[![Spotify](https://github.com/itstommi/Spotify-Readme/blob/main/spotify.svg)](https://open.spotify.com/user/gw8cayvfx9mo5ho392xtpeagn?) <br>
-
-</div>
-
-<hr></hr>
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I likes to learn **new langs**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Wants to know more about me? **just assume it**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TEDDY6969&theme=radical" >
-
-<!--
-<a  href="https://github.com/SP-XD">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TEDDY6969&theme=radical" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TEDDY6969&theme=radical" width="32.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TEDDY6969&theme=dark&hide_border=true" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TEDDY6969&theme=radical" >
-
-</details>
--->
-<hr></hr>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
-
-</div>
+<a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/twitter.svg" alt="https://twitter.com/oyejateen" title="Twitter" width="35"/></a> &ensp;
+<a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="https://linkedin.com/in/oyejateen" title="Linkedin" width="35"/></a> &ensp;
+<a href="https://instagram.com/oyejateen" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="https://instagram.com/oyepriyansh" title="Instagram" width="35"/></a> &ensp;
+<a href="https://jatinxd.tk/discord" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="https://discord.gg/AeAjegXn6D" title="Discord" width="35"/></a> &ensp;
