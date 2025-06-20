@@ -7,5 +7,5 @@ I'm a passionate self-taught developer from India.
 
 <a href="https://twitter.com/oyejateen" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/twitter.svg" alt="https://twitter.com/oyejateen" title="Twitter" width="35"/></a> &ensp;
 <a href="https://linkedin.com/in/oyejateen" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="https://linkedin.com/in/oyejateen" title="Linkedin" width="35"/></a> &ensp;
-<a href="https://instagram.com/heyjateen" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="https://instagram.com/oyepriyansh" title="Instagram" width="35"/></a> &ensp;
+<a href="https://instagram.com/heyjateen" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="https://instagram.com/heyjateen" title="Instagram" width="35"/></a> &ensp;
 <a href="https://jatinxd.tk/discord" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="https://discord.gg/AeAjegXn6D" title="Discord" width="35"/></a> &ensp;
